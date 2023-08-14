@@ -1,0 +1,13 @@
+openAIKey = ""
+
+[wso2.gmail_to_sfdc.gmailOAuth2Config]
+refreshToken = ""
+clientId = ""
+clientSecret = ""
+
+[wso2.gmail_to_sfdc.salesforceOAuth2Config]
+baseUrl = ""
+clientId = ""
+clientSecret = ""
+refreshToken = ""
+refreshUrl = ""
